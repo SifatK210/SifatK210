@@ -21,7 +21,7 @@
 ---
 
 ## 👋 Who am I?
-I’m **Sifat Kaur**, a **1st-year B.Tech CSE (Data Science)** student at **SRM Institute of Science & Technology, Ghaziabad**.  
+I’m **Sifat Kaur**, a **2nd-year B.Tech CSE (Data Science)** student at **SRM Institute of Science & Technology, Ghaziabad**.  
 I enjoy learning technology step-by-step and building small projects that strengthen my fundamentals.
 
 🌱 I believe in **consistency over perfection**.
